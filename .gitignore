@@ -5,6 +5,7 @@ __pycache__/
 /alerts.log
 /blocked_macs.json
 /detect_output.txt
-/columns.txt/WIDS_Poster_A1.pdf
+/columns.txt
+/WIDS_Poster_A1.pdf
 /confusion_matrix.png
 /feature_importance.png
