@@ -242,7 +242,7 @@ HALF = (W - 2 * M) / 2
 ax.add_patch(Rectangle((M, 0.5), W - 2 * M, 2.3, fc="white", ec="black", lw=3))
 label(M + 0.3, 2.55, "AI use statement", 26, weight="bold", va="top")
 para(M + 0.3, 1.95,
-     "AI assistant helped write the detection code, the AWID3 data "
+     "Claude (AI assistant) helped write the detection code, the AWID3 data "
      "converter and this poster generator, and helped me debug. I ran and "
      "tested everything myself and can explain how the code works.",
      23, HALF - 0.9)
